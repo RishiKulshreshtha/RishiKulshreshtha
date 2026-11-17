@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t">
+  <title id="t">Rishi Kulshreshtha. Accessible, AI-ready Drupal.</title>
+  <rect width="1280" height="320" fill="#f7f3eb"/>
+  <rect x="27" y="27" width="1226" height="266" fill="#ece6d8" stroke="#665c49" stroke-width="6"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-weight="700">
+    <text x="88" y="112" font-size="26" fill="#815600" letter-spacing="2">// HELLO WORLD</text>
+    <text x="88" y="188" font-size="64" fill="#1c1a14" letter-spacing="4">RISHI KULSHRESHTHA</text>
+    <text x="88" y="246" font-size="36" fill="#0052a8">Accessible, AI-ready Drupal</text>
+  </g>
+  <g aria-hidden="true" shape-rendering="crispEdges">
+    <rect x="1098" y="72" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1054" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1076" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1098" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1120" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1142" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1164" y="94" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="116" width="22" height="22" fill="#4a4232"/>
+    <rect x="1164" y="116" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="138" width="22" height="22" fill="#4a4232"/>
+    <rect x="1076" y="138" width="22" height="22" fill="#0052a8"/>
+    <rect x="1120" y="138" width="22" height="22" fill="#0052a8"/>
+    <rect x="1164" y="138" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="160" width="22" height="22" fill="#4a4232"/>
+    <rect x="1164" y="160" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="182" width="22" height="22" fill="#4a4232"/>
+    <rect x="1076" y="182" width="22" height="22" fill="#815600"/>
+    <rect x="1098" y="182" width="22" height="22" fill="#815600"/>
+    <rect x="1120" y="182" width="22" height="22" fill="#815600"/>
+    <rect x="1164" y="182" width="22" height="22" fill="#4a4232"/>
+    <rect x="1032" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1054" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1076" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1098" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1120" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1142" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1164" y="204" width="22" height="22" fill="#4a4232"/>
+    <rect x="1054" y="226" width="22" height="22" fill="#4a4232"/>
+    <rect x="1142" y="226" width="22" height="22" fill="#4a4232"/>
+  </g>
+</svg>
